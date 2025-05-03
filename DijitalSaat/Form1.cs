@@ -101,7 +101,7 @@ namespace DijitalSaat
         private void button3_Click(object sender, EventArgs e)
         {
            
-            listBox1.Items.Add("Þu kadar zamanda "+ comboBox1.Text +" : " 
+            listBox1.Items.Add("Þu kadar zamandan "+ comboBox1.Text +" : " 
                 + saatsayac +  " S " + dakikasayac + " D "+ saniyesayac + " SN ");
         }
 
