@@ -176,6 +176,7 @@
             // 
             AutoScaleDimensions = new SizeF(10F, 22F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.Info;
             ClientSize = new Size(567, 392);
             Controls.Add(label4);
             Controls.Add(comboBox1);
